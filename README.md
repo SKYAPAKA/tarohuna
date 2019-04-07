@@ -1,2 +1,0 @@
-# tarohuna
-Created with CodeSandbox
